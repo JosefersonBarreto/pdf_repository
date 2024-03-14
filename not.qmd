@@ -30,19 +30,42 @@ format:
   beamer:
     background-image: template/template.JPEG
 incremental: true
+bibliography: ref.bib
+nocite: '@*'
 ---
 
-## Adicional 
+## Adicional
 
 Primeiramente vamos dar uma breve introdução a estrutura de um quarto document. O quarto document assim como Rmarkdowm possuem algumas peculiariedades em sua estrutura, a primeiras delas é o YAML.
 
-# Adicional 
+# Adicional
 
 ![](images/clipboard-632724179.png)
 
-# Adicional 
+# Adicional
 
 YAML, que significa "YAML Ain't Markup Language" (YAML não é uma linguagem de marcação). O YAML é muitas vezes utilizado em configurações de aplicativos, arquivos de manifesto, definições de configuração e em situações onde a legibilidade é uma prioridade. Ele é especialmente popular em ambientes de desenvolvimento de software, DevOps e configuração de sistemas.
+
+# YAML
+
+Lançada em 2001 e inspirada em linguagens como XML, Python, C, entre outras, YAML ou, acrônimo recursivo para “YAML Ain’t Markup Language” é um formato de serialização de dados legível por humanos, sendo bastante utilizado para arquivos de configuração, assim como o JSON e o XML.
+
+
+
+
+# Mas o que seria Serialização?
+
+
+
+# Mas o que seria Serialização?
+
+<div>
+
+::: incremental
+-   É um processo para converter uma estrutura de dados ou um objeto em um formato que possa ser armazenado ou transferido.
+:::
+
+</div>
 
 # CSS
 
@@ -67,3 +90,5 @@ gwftgfyrr
 ::: incremental
 -   dszfsdfdgf\_
 :::
+
+# Referências
